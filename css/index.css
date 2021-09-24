@@ -14,7 +14,7 @@ html {
 }
 
 .body {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-family: 'Raleway', sans-serif;
   background-color: var(--theme-color);
 }
@@ -35,6 +35,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .header__title {
